@@ -44,7 +44,7 @@ function check(form)
 {
 if(form.abc.value == "Adil" && form.cbx.value == "123")
 {
-    form.action = "https://www.google.com/search?q=google+translate&oq=goog&aqs=chrome.0.69i59j69i57j5l3.542j0j1&sourceid=chrome&ie=UTF-8";
+    form.action = "https://adikkakdela.herokuapp.com/";
     return true;
 }
 {
