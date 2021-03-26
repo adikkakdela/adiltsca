@@ -36,6 +36,7 @@
 						</div>
 							<tr class="d-flex justify-content-center mt-3 login_container">
 				 	 <td><input type="submit" onclick="return check(this.form)" value="SUBMIT"></td>
+					 <td><input type="reset"  value="CLEAR"></td>
 				   </tr>
 					</form>
 				</div>
